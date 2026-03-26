@@ -1,0 +1,67 @@
+tweet_id,tweet_snippet,entity,label,description
+1,Elon Musk just announced that Tesla will open a new Gigafact...,Tesla,ORG,"Companies, agencies, institutions, etc."
+1,Elon Musk just announced that Tesla will open a new Gigafact...,India,GPE,"Countries, cities, states"
+1,Elon Musk just announced that Tesla will open a new Gigafact...,2026,DATE,Absolute or relative dates or periods
+2,The United Nations held an emergency meeting in New York to ...,The United Nations,ORG,"Companies, agencies, institutions, etc."
+2,The United Nations held an emergency meeting in New York to ...,New York,GPE,"Countries, cities, states"
+3,Lionel Messi scored a hat-trick for Inter Miami in the MLS C...,Lionel Messi,PERSON,"People, including fictional"
+3,Lionel Messi scored a hat-trick for Inter Miami in the MLS C...,last Saturday,DATE,Absolute or relative dates or periods
+4,Apple unveiled the iPhone 16 at its Worldwide Developers Con...,Apple,ORG,"Companies, agencies, institutions, etc."
+4,Apple unveiled the iPhone 16 at its Worldwide Developers Con...,Worldwide Developers Conference,ORG,"Companies, agencies, institutions, etc."
+4,Apple unveiled the iPhone 16 at its Worldwide Developers Con...,San Francisco,GPE,"Countries, cities, states"
+5,Prime Minister Narendra Modi visited Nepal to strengthen tie...,Narendra Modi,PERSON,"People, including fictional"
+5,Prime Minister Narendra Modi visited Nepal to strengthen tie...,Nepal,PERSON,"People, including fictional"
+5,Prime Minister Narendra Modi visited Nepal to strengthen tie...,India,GPE,"Countries, cities, states"
+5,Prime Minister Narendra Modi visited Nepal to strengthen tie...,Nepal,GPE,"Countries, cities, states"
+6,NASA's Artemis mission is planning to land astronauts on the...,NASA,ORG,"Companies, agencies, institutions, etc."
+6,NASA's Artemis mission is planning to land astronauts on the...,Artemis,NORP,Nationalities or religious or political groups
+6,NASA's Artemis mission is planning to land astronauts on the...,Moon,PERSON,"People, including fictional"
+6,NASA's Artemis mission is planning to land astronauts on the...,December 2025,DATE,Absolute or relative dates or periods
+7,Jeff Bezos and Amazon are investing $1 billion in renewable ...,Jeff Bezos,PERSON,"People, including fictional"
+7,Jeff Bezos and Amazon are investing $1 billion in renewable ...,Amazon,ORG,"Companies, agencies, institutions, etc."
+7,Jeff Bezos and Amazon are investing $1 billion in renewable ...,$1 billion,MONEY,"Monetary values, including unit"
+7,Jeff Bezos and Amazon are investing $1 billion in renewable ...,Africa,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+8,The Paris Olympics 2024 saw Team USA dominate the swimming e...,The Paris Olympics,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+8,The Paris Olympics 2024 saw Team USA dominate the swimming e...,2024,DATE,Absolute or relative dates or periods
+8,The Paris Olympics 2024 saw Team USA dominate the swimming e...,Team USA,ORG,"Companies, agencies, institutions, etc."
+8,The Paris Olympics 2024 saw Team USA dominate the swimming e...,Seine Saint-Denis,FAC,"Buildings, airports, highways, bridges, etc."
+9,OpenAI and Microsoft are collaborating to bring GPT-5 to Azu...,OpenAI,ORG,"Companies, agencies, institutions, etc."
+9,OpenAI and Microsoft are collaborating to bring GPT-5 to Azu...,Microsoft,ORG,"Companies, agencies, institutions, etc."
+10,Cristiano Ronaldo broke the all-time goal record playing for...,Cristiano Ronaldo,PERSON,"People, including fictional"
+10,Cristiano Ronaldo broke the all-time goal record playing for...,Al Nassr,PERSON,"People, including fictional"
+10,Cristiano Ronaldo broke the all-time goal record playing for...,Saudi Arabia,GPE,"Countries, cities, states"
+11,The World Health Organization warned about a new flu variant...,The World Health Organization,ORG,"Companies, agencies, institutions, etc."
+11,The World Health Organization warned about a new flu variant...,Southeast Asia,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+12,Taylor Swift's Eras Tour became the highest-grossing concert...,Taylor Swift's,PERSON,"People, including fictional"
+12,Taylor Swift's Eras Tour became the highest-grossing concert...,last year,DATE,Absolute or relative dates or periods
+13,Google DeepMind published a groundbreaking AI research paper...,Google DeepMind,ORG,"Companies, agencies, institutions, etc."
+13,Google DeepMind published a groundbreaking AI research paper...,AI,GPE,"Countries, cities, states"
+13,Google DeepMind published a groundbreaking AI research paper...,Nature,GPE,"Countries, cities, states"
+13,Google DeepMind published a groundbreaking AI research paper...,this week,DATE,Absolute or relative dates or periods
+14,The earthquake in Turkey and Syria left thousands homeless i...,Turkey,GPE,"Countries, cities, states"
+14,The earthquake in Turkey and Syria left thousands homeless i...,Syria,GPE,"Countries, cities, states"
+14,The earthquake in Turkey and Syria left thousands homeless i...,thousands,CARDINAL,Numerals that do not fall under another type
+14,The earthquake in Turkey and Syria left thousands homeless i...,February last year,DATE,Absolute or relative dates or periods
+15,"Sundar Pichai confirmed that Google will lay off 12,000 empl...",Sundar Pichai,ORG,"Companies, agencies, institutions, etc."
+15,"Sundar Pichai confirmed that Google will lay off 12,000 empl...",Google,ORG,"Companies, agencies, institutions, etc."
+15,"Sundar Pichai confirmed that Google will lay off 12,000 empl...","12,000",CARDINAL,Numerals that do not fall under another type
+15,"Sundar Pichai confirmed that Google will lay off 12,000 empl...",North America,LOC,"Non-GPE locations, mountain ranges, bodies of water"
+16,SpaceX successfully launched the Starship rocket from Boca C...,SpaceX,PERSON,"People, including fictional"
+16,SpaceX successfully launched the Starship rocket from Boca C...,Starship,PERSON,"People, including fictional"
+16,SpaceX successfully launched the Starship rocket from Boca C...,Boca Chica,GPE,"Countries, cities, states"
+16,SpaceX successfully launched the Starship rocket from Boca C...,Texas,GPE,"Countries, cities, states"
+16,SpaceX successfully launched the Starship rocket from Boca C...,Tuesday,DATE,Absolute or relative dates or periods
+17,The FIFA World Cup 2026 will be co-hosted by the United Stat...,World Cup 2026,EVENT,"Named hurricanes, battles, wars, sports events, etc."
+17,The FIFA World Cup 2026 will be co-hosted by the United Stat...,the United States,GPE,"Countries, cities, states"
+17,The FIFA World Cup 2026 will be co-hosted by the United Stat...,Canada,GPE,"Countries, cities, states"
+17,The FIFA World Cup 2026 will be co-hosted by the United Stat...,Mexico,GPE,"Countries, cities, states"
+18,Mark Zuckerberg announced Meta's new AR glasses at a confere...,Mark Zuckerberg,PERSON,"People, including fictional"
+18,Mark Zuckerberg announced Meta's new AR glasses at a confere...,Meta,ORG,"Companies, agencies, institutions, etc."
+18,Mark Zuckerberg announced Meta's new AR glasses at a confere...,AR,ORG,"Companies, agencies, institutions, etc."
+18,Mark Zuckerberg announced Meta's new AR glasses at a confere...,Los Angeles,GPE,"Countries, cities, states"
+19,The Reserve Bank of India raised interest rates in Mumbai to...,The Reserve Bank of India,ORG,"Companies, agencies, institutions, etc."
+19,The Reserve Bank of India raised interest rates in Mumbai to...,Mumbai,GPE,"Countries, cities, states"
+20,Volodymyr Zelensky addressed the European Parliament in Brus...,Volodymyr Zelensky,PERSON,"People, including fictional"
+20,Volodymyr Zelensky addressed the European Parliament in Brus...,the European Parliament,ORG,"Companies, agencies, institutions, etc."
+20,Volodymyr Zelensky addressed the European Parliament in Brus...,Brussels,GPE,"Countries, cities, states"
+20,Volodymyr Zelensky addressed the European Parliament in Brus...,Ukraine,GPE,"Countries, cities, states"
